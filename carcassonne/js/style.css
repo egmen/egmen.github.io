@@ -15,6 +15,10 @@ body {
     background-color: yellow;
     transition: 500ms;
 }
+.finish {
+    background-color: greenyellow;
+    transition: 500ms;
+}
 h1 {
     margin-top: 0;
 }
