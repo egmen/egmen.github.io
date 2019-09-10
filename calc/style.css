@@ -1,0 +1,18 @@
+.version {
+	text-align:center;	
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	background-color: #fff;
+	opacity: 0.2;
+	border-right: 1px solid #63666A;
+	border-top: 1px solid #63666A;
+	cursor: default;
+	vertical-align: middle;
+	padding: 5px 10px;
+}
+
+.version:hover {
+	margin: 0;
+	opacity: 1;
+}
